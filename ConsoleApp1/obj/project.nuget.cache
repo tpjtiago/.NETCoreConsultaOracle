@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5nTS6o6yMeZ9VYa9T5AjycVvknM6CavMtVoYgsPnLFzwWcglyeDTJWgNo+sQJpofDMzD1PFS8sM3AAqJg3hLug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fs1203\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fs1203\\.nuget\\packages\\oracle.manageddataaccess.core\\2.19.70\\oracle.manageddataaccess.core.2.19.70.nupkg.sha512"
+  ],
+  "logs": []
+}
